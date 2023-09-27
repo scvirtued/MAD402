@@ -1,5 +1,5 @@
 # Craigslist Analysis
-2023-09-26
+2023-09-26 <br>
 by [Dalton Virtue](https://github.com/scvirtued)
 
 ## Introduction
